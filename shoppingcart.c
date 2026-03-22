@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+   //SHOPPING CART
 int main() {
     int quantity;
     float price;
